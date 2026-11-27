@@ -222,5 +222,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-## Données
-data/FashionMNIST
+## Données dataset
+data/
+
+!data/sprites_labels_nc_1788_16x16.npy
+!data/sprites_1788_16x16.npy
